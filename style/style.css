@@ -1,0 +1,12 @@
+body {
+    border: 5px solid gray;
+    margin: 50px;
+    padding: 20px;
+    min-height: 900px;
+}
+
+input {
+    border: 0;
+    padding-left: 10px;
+    background-color: aquamarine;
+}
